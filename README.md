@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Teacher Backend API (Flask)
 
 ## Endpoints
