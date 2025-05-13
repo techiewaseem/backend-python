@@ -13,7 +13,7 @@ Response:
   "student": "student1",
   "courses": ["Math", "Science"]
 }
-=======
+
 # 🎓 Course Backend API (Python Flask)
 
 This is a simple backend system built using Python and Flask. It provides two API endpoints:
@@ -39,6 +39,4 @@ To run this project locally, follow the steps below.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
->>>>>>> 485278029bb1329e61ce6693464dfe3b2699d063
+git clone https://github.com/techiewaseem/backend-python.git
