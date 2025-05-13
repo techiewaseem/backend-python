@@ -49,7 +49,7 @@ git clone https://github.com/techiewaseem/backend-python.git`
 ⚠️ Make sure you're using pip for Python 3. If needed, use pip3.
 
 ### 4. Create your app.py file (if it doesn't exist)
-```
+```python
 from flask import Flask, jsonify
 
 app = Flask(__name__)
