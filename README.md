@@ -10,8 +10,12 @@ GET http://127.0.0.1:5000/courses/student/student1
 Response:
 `json`
 `{
-  "student": "student1",
-  "courses": ["Math", "Science"]
+  "courses": [
+    "Quran Memorization",
+    "Islamic Studies"
+  ],
+  "name": "Omar Al-Hadi",
+  "student_id": "student2"
 }`
 
 # 🎓 Course Backend API (Python Flask)
